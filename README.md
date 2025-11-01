@@ -1,4 +1,4 @@
-## Hi there 👋
+## Experimenting with computational and applied physics models
 
 <!--
 **uhniche/uhniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
