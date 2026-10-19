@@ -1,4 +1,4 @@
-## UIUC Physics, Minors in CS & Math
+## UIUC Physics, Minoring in CS & Math
 
 <!--
 **uhniche/uhniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
